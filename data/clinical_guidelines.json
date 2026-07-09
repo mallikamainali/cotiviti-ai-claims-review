@@ -1,0 +1,38 @@
+[
+  {
+    "diagnosis": "I21.3",
+    "condition": "ST-Elevation Myocardial Infarction (STEMI)",
+    "procedure": "92928",
+    "procedure_name": "Percutaneous Coronary Intervention (PCI)",
+    "required_findings": [
+      "chest pain",
+      "ecg",
+      "stemi",
+      "troponin"
+    ],
+    "recommendation": "PCI is medically appropriate when STEMI is supported by symptoms, ECG findings, and elevated cardiac troponin."
+  },
+  {
+    "diagnosis": "J18.9",
+    "condition": "Pneumonia",
+    "procedure": "71045",
+    "procedure_name": "Chest X-ray",
+    "required_findings": [
+      "fever",
+      "cough",
+      "x-ray"
+    ],
+    "recommendation": "Chest radiography is appropriate when pneumonia is suspected based on symptoms and clinical evaluation."
+  },
+  {
+    "diagnosis": "E11.9",
+    "condition": "Type 2 Diabetes Mellitus",
+    "procedure": "83036",
+    "procedure_name": "Hemoglobin A1c",
+    "required_findings": [
+      "diabetes",
+      "hba1c"
+    ],
+    "recommendation": "Hemoglobin A1c testing is appropriate for routine monitoring of patients with diabetes."
+  }
+]

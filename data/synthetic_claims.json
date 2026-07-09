@@ -1,0 +1,47 @@
+[
+  {
+    "patient_id": "P001",
+    "age": 67,
+    "sex": "Male",
+    "diagnosis_code": "I21.3",
+    "procedure_code": "92928",
+    "clinical_note": "Patient presented with severe chest pain radiating to the left arm. ECG demonstrated ST-segment elevation consistent with STEMI. High-sensitivity troponin was elevated. Emergency coronary angioplasty with stent placement was performed successfully.",
+    "expected_decision": "APPROVE"
+  },
+  {
+    "patient_id": "P002",
+    "age": 63,
+    "sex": "Female",
+    "diagnosis_code": "I21.3",
+    "procedure_code": "92928",
+    "clinical_note": "Patient reported chest discomfort. Coronary angioplasty was performed.",
+    "expected_decision": "FLAG FOR REVIEW"
+  },
+  {
+    "patient_id": "P003",
+    "age": 55,
+    "sex": "Male",
+    "diagnosis_code": "J18.9",
+    "procedure_code": "71045",
+    "clinical_note": "Patient presented with fever, productive cough, and shortness of breath. Chest X-ray confirmed right lower lobe pneumonia.",
+    "expected_decision": "APPROVE"
+  },
+  {
+    "patient_id": "P004",
+    "age": 48,
+    "sex": "Female",
+    "diagnosis_code": "J18.9",
+    "procedure_code": "71045",
+    "clinical_note": "Patient has fever and persistent cough for three days.",
+    "expected_decision": "FLAG FOR REVIEW"
+  },
+  {
+    "patient_id": "P005",
+    "age": 59,
+    "sex": "Female",
+    "diagnosis_code": "E11.9",
+    "procedure_code": "83036",
+    "clinical_note": "Patient with type 2 diabetes presents for routine follow-up. HbA1c test ordered to evaluate glycemic control.",
+    "expected_decision": "APPROVE"
+  }
+]
