@@ -35,8 +35,11 @@ cotiviti-ai-claims-review/
 ├── utils/
 │   ├── retrieve.py
 │   └── reviewer.py
-│
+├── Clinical Decision Making and Pattern Recognition in Healthcare.mp4
+├── Clinical Decision Making and Pattern Recognition in Healthcare.pptx
+├── Clinical Decision Making and Pattern Recognition in Healthcare - Report.docx
 └── README.md
+
 ```
 
 ## Installation
